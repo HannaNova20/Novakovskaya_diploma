@@ -1,0 +1,16 @@
+extends layout/layout
+
+block vars
+    - var pageTitle = 'Главная страница'
+    - var pageBodyClass = 'homepage'
+    - var pageHeaderClass = ''
+
+block content
+    .container
+        div.header
+            .header__top
+                .header__top__logo
+                    img(src=".././assets/imgs/logo.png")
+                .header__top__menu
+            .header__content
+        

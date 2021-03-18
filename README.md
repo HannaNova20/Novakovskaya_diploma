@@ -1,2 +1,1 @@
-# Novakovskaya_diploma
-Diploma project on courses
+# gulp_pug_scss
